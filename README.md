@@ -14,5 +14,6 @@
 ## INSTALL
   To install this plugin copy the folder 'SendToClient' into a Prism plugin location.
   
-## CONTACT
-  MenhirFX: contact@menhirfx.com
+
+## Credits
+- [MenhirFX](www.menhirfx.com)
